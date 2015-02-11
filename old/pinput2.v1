@@ -1,0 +1,1 @@
+ &pinput2 INDX =   6, INDY =   7, NPX =  384, NPY = 768 NPXB =   128, NPYB =   256 INORDER = 2, POPT = 2, DOPT = 2 NTW = 1, NTP = 1 TEND =  65.000, DT =   0.200 VTX =   1.000, VTY =   1.000, QME =  -1.000 VDX =   0.000, VDY =   5.000, VTDX =   0.500, VTDY =   0.500 AX =    0.866667, AY =   0.866667 /

@@ -1,0 +1,5 @@
+Log of updates for new_pbeps2.source
+5/1/2013: updated PFDISTR2 to allow zero density regions
+5/1/2013: added FGDISTR0 to exponential function with no background
+5/1/2013: added initialization complete to fort.2 in new_pbeps2.f,
+          new_pdbeps2.f, and new_pbbeps2.f
